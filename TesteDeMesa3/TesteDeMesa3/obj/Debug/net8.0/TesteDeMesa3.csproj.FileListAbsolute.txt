@@ -1,0 +1,14 @@
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.AssemblyInfoInputs.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.AssemblyInfo.cs
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.csproj.CoreCompileInputs.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\bin\Debug\net8.0\TesteDeMesa3.exe
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\bin\Debug\net8.0\TesteDeMesa3.deps.json
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\bin\Debug\net8.0\TesteDeMesa3.runtimeconfig.json
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\bin\Debug\net8.0\TesteDeMesa3.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\bin\Debug\net8.0\TesteDeMesa3.pdb
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\refint\TesteDeMesa3.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.pdb
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\TesteDeMesa3.genruntimeconfig.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa3\TesteDeMesa3\obj\Debug\net8.0\ref\TesteDeMesa3.dll
