@@ -41,10 +41,6 @@ namespace TesteDeMesa3
                         saldo -= saque; //Recalcula o saldo dps do saque;
                         valorPresente = saldo; //Valor presente (Base de calculo) é atualizada;
                         periodo = 0; //Periodo resetado;
-
-                        Functions.imprimeValores(valorPresente, taxaJuros, i, valorFuturo, rendLiq, saque, saldo);
-                        //Imprime novamente dps do saque mas antes de att o valor futuro, fica mais claro a saida de valores e tals;
-
                         valorFuturo = Functions.valorFuturoDiario(valorPresente, taxaJuros, periodo); //Recalcula o valor futuro baseado nos dados atualizados;
                     }
                     else

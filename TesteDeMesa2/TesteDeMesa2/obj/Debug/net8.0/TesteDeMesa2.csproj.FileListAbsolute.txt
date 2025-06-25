@@ -12,3 +12,18 @@ C:\Users\Ville\Desktop\Academy BNE\Estudo\BNE -  C#\Curso C#\TesteDeMesa2\TesteD
 C:\Users\Ville\Desktop\Academy BNE\Estudo\BNE -  C#\Curso C#\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.pdb
 C:\Users\Ville\Desktop\Academy BNE\Estudo\BNE -  C#\Curso C#\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.genruntimeconfig.cache
 C:\Users\Ville\Desktop\Academy BNE\Estudo\BNE -  C#\Curso C#\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\ref\TesteDeMesa2.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.exe
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.deps.json
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.runtimeconfig.json
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.pdb
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.AssemblyInfoInputs.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.AssemblyInfo.cs
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.csproj.CoreCompileInputs.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.sourcelink.json
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\refint\TesteDeMesa2.dll
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.pdb
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.genruntimeconfig.cache
+C:\Users\Ville\Desktop\Academy BNE\Estudo\TesteDeMesa\TesteDeMesa2\TesteDeMesa2\obj\Debug\net8.0\ref\TesteDeMesa2.dll

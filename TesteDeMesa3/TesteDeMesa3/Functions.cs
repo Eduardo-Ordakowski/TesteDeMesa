@@ -4,7 +4,8 @@ namespace TesteDeMesa3
 {
     internal class Functions
     {
-        public static double corrigirTempo() //Corrigir tempo;
+        //Corrige o tempo para dias;
+        public static double corrigirTempo() 
         {
             Console.WriteLine("Informe os meses:");
             int meses = Convert.ToInt32(Console.ReadLine());
@@ -12,13 +13,13 @@ namespace TesteDeMesa3
             Console.WriteLine("Informe os dias:");
             int dias = Convert.ToInt32(Console.ReadLine());
 
-            DateTime atual = DateTime.Today; //Recebe a data atual (apenas os dias)
+            DateTime atual = DateTime.Today; 
 
-            DateTime futura = atual.AddMonths(meses).AddDays(dias); //Adiciona os valores em uma variavel DateTime;
+            DateTime futura = atual.AddMonths(meses).AddDays(dias);
 
             return ((futura - atual).TotalDays);
         }
-        public static double valorFuturoMensal(double ValorPresente, double TaxaJuros, double Periodo) //Valor futuro;
+        public static double valorFuturoMensal(double ValorPresente, double TaxaJuros, double Periodo) //Calculo de valor futuro mensal;
         {
             TaxaJuros = TaxaJuros / 100;
 
@@ -26,9 +27,8 @@ namespace TesteDeMesa3
 
             return ValorFuturo;
         }
-        public static double valorFuturoDiario(double valorPresente, double taxaJuros, double periodo)
+        public static double valorFuturoDiario(double valorPresente, double taxaJuros, double periodo) //Calculo de valor futuro convertido para diario;
         {
-            // Converte a taxa mensal para diária
             double taxaJurosDiaria = Math.Pow(1 + (taxaJuros / 100), 1.0 / 30.0) - 1;
 
             // Calcula o valor futuro com juros compostos diários
