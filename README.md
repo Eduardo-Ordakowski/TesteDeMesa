@@ -1,16 +1,20 @@
 Projeto: Testes de Mesa em C#
-Este repositório documenta minha jornada de aprendizado em C# e lógica de programação através de uma série de exercícios de "teste de mesa". O objetivo principal é solidificar conceitos fundamentais da linguagem e da estruturação de algoritmos.
+O repositório contém um projeto destinado a aprendizagem e revisão de conceitos de lógica de programação utilizando a linguagem C#.
 
 Status: Concluído ✔️
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 📂 Estrutura do Repositório
-Este repositório contém múltiplos projetos, cada um focado em um aspecto específico da lógica de programação:
+O repositório está separado nos projetos:
 
-/TesteDeMesa1: [Breve descrição do que este exercício aborda. Ex: Estruturas condicionais e loops básicos.]
+/TesteDeMesa1: Contém lógica de laço básicas interagindo com estruturas condicionais.
 
-/TesteDeMesa2: [Ex: Manipulação de arrays e listas.]
+/TesteDeMesa2: Conceitos POO aplicados. Calculo de juros composto juntamente com loops.
 
-/TesteDeMesa3: [Ex: Conceitos iniciais de Orientação a Objetos.]
+/TesteDeMesa3: Calculo de juros diário. Lógica de loops e interações com estruturas condicionais mais complexas.
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ✨ Funcionalidades e Conceitos Abordados
 Através desses exercícios, foram praticados os seguintes conceitos:
@@ -21,23 +25,22 @@ Estruturas Condicionais (if/else, switch)
 
 Laços de Repetição (for, while)
 
-[Adicionar outros conceitos que você praticou, como arrays, listas, métodos, etc.]  
+Estruturação POO
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias Utilizadas
 Linguagem: C#
 
-Plataforma: .NET [Adicione a versão, ex: .NET 8]
+-----------------------------------------------------------------------------------------------------------------------------------
 
-🧠 O que eu aprendi
-Com este projeto, pude aprofundar meus conhecimentos em:
+🧠 O que eu aprendi:
 
-A sintaxe e estrutura básica da linguagem C#.
+Com esse projeto pude revisitar conceitos de POO com C#.
+Exercitar loops, estruturas de seleção e lógica de programação básica.
+Utlização das ferramentas de Debug para melhor compreensão da sequência do projeto.
 
-Como depurar e seguir o fluxo de um programa passo a passo, que é a essência do teste de mesa.
-
-A importância da lógica de programação bem estruturada para resolver problemas de forma eficaz.
-
-[Adicione qualquer outro aprendizado específico aqui!]
+-----------------------------------------------------------------------------------------------------------------------------------
 
 👨‍💻 Autor
-Feito por [Seu Nome].
+Feito por Eduardo Ordakowski
